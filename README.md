@@ -24,10 +24,12 @@ Error Handling:
 Error handling for invalid inputs or unexpected scenarios is assumed to be handled gracefully. This may include providing meaningful error messages or logging.
 
 Performance:
+
 Here i have implemented two different cs file that performs encoding of binary string with different methods or techniques to perform unique performance.
 The implementation assumes a reasonable trade-off between simplicity and performance. It may not be optimized for extremely large messages or real-time encoding/decoding requirements.
 
 Solution:
+
 As mentioned in performance, implemented two different solutions to encode the binary message as mentioned in the problem task given.
 
 In order to deploy this to production we always keep in mind that in a production environment, additional considerations for error handling, performance optimization, and extensibility may be required.
