@@ -1,0 +1,1 @@
+# Sinch_BinaryMessageEncoding
