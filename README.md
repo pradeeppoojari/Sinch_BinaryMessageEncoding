@@ -1,6 +1,7 @@
 # Sinch_BinaryMessageEncoding
 
 Binary Message Encoding Scheme
+
 This project aims to implement a simple binary message encoding scheme using C#. The assumptions made in designing this solution are as follows:
 
 Input Validity:
